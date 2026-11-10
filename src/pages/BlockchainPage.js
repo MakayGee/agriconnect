@@ -480,7 +480,7 @@ const BlockchainPage = () => {
             <div className="ag-card-body">
               <h5 style={{ color: 'var(--text-primary)', marginBottom: '0.5rem' }}>
                 <FaExclamationTriangle className="me-2" style={{ color: 'var(--color-warning)' }} />
-                Simulated Anti-Tamper Demonstration (Part B Evaluator Tool)
+                Simulated Anti-Tamper Demonstration
               </h5>
               <p style={{ color: 'var(--text-muted)', fontSize: '0.88rem', marginBottom: '1.5rem', lineHeight: 1.6 }}>
                 This simulation directly demonstrates why blockchain is essential for agricultural transformation in Lesotho.
